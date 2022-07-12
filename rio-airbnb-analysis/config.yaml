@@ -1,0 +1,6 @@
+main:
+  project_name: census_data
+  experiment_name: dev
+data:
+  file_url: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+
