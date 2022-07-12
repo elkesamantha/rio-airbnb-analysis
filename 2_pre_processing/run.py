@@ -1,6 +1,4 @@
 """
-Creator: Ivanovitch Silva
-Date: 30 Dec. 2021
 After the fetch step the raw data artifact was generated.
 Now, we need to pre-processing the raw data to create a new artfiact (clean_data).
 """
