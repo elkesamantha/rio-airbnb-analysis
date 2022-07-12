@@ -1,7 +1,4 @@
 """
-Creator: Ivanovitch Silva
-Date: 21 Nov. 2021
-Guided Exercise 03
 MLflow pipeline with two components and using hydra
 as a configuration manager solution.
 """
