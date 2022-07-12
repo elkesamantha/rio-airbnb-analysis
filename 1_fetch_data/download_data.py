@@ -1,7 +1,4 @@
 """
-Creator: Ivanovitch Silva
-Date: 21 Nov. 2021
-Guided Exercise 03
 ML Pipeline Components in MLflow
 In this module we will build a MLflow component.
 """
